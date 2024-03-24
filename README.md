@@ -140,7 +140,7 @@ and dag_test1.py (used for data extraction and raw dataset creation) is inserted
 ![img5](https://github.com/dogucanelci/GCP_SP_500_Financial_Data_Engineering_Project/assets/59261856/98edbd0a-543d-4413-9b1a-0f89b753d02f)
 
 
-<a name="data-reporting"></a>
+<a name="data_reporting"></a>
 ### 📊 Data Reporting
 - BigQuery is connected with Looker Studio BI , and used the Views of the DB to create interactive and insightful data visualizations.
 
